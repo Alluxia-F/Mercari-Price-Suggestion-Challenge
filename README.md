@@ -1,28 +1,28 @@
 Please check out final_report.pdf for a in-depth explanation of my approach to
 this competition.
 
-Requirements
-numpy (included in Anaconda)
-pandas (included in Anaconda)
-matplotlib (included in Anaconda)
-scikit-learn ( included in Anaconda)
-scipy (included in anaconda)
+<b>Requirements
+<p>numpy (included in Anaconda)
+<p>pandas (included in Anaconda)
+<p>matplotlib (included in Anaconda)
+<p>scikit-learn ( included in Anaconda)
+<p>scipy (included in anaconda)
+<p>
+<p>seaborn (can be installed with: pip install seaborn)
+<p>wordcloud （can be installed with: conda install -c conda-forge wordcloud)
+<p>NLTK (can be installed with: pip install -U nltk)
+<p>lightGBM (can be installed with: pip install lightgbm)
 
-seaborn (can be installed with: pip install seaborn)
-wordcloud （can be installed with: conda install -c conda-forge wordcloud)
-NLTK (can be installed with: pip install -U nltk)
-lightGBM (can be installed with: pip install lightgbm)
+<p>hyperopt (can be installed with: pip install hyperopt)
 
-hyperopt (can be installed with: pip install hyperopt)
-
-Dataset
-The dataset can be obtained from the Kaggle competition page:
+<b>Dataset
+<p>The dataset can be obtained from the Kaggle competition page:
 https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
-In addition, I already uploaded both train.csv and test.csv files to google cloud
+<p>In addition, I already uploaded both train.csv and test.csv files to google cloud
 and make them the public datasets for code to run.
 
-Code running:
-Capstone_Report.ipynb
+<b>Code running:
+<p>Capstone_Report.ipynb
 
-Pipeline viewing:
-Capstone_Report.html
+<b>Pipeline viewing:
+<p>Capstone_Report.html
