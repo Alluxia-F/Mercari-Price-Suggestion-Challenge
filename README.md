@@ -18,8 +18,7 @@ this competition.
 <b>Dataset</b>
 <p>The dataset can be obtained from the Kaggle competition page:
 https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
-<p>In addition, I already uploaded both train.csv and test.csv files to google cloud
-and make them the public datasets for code to run.
+<p>As both training and test file are larger than 25MB, which are allowed to upload in GitHub. I uploaded both train.csv and test.csv files to google cloud and make them the public datasets for code to run.
 
 <b>Code running:</b>
 <p>Capstone_Report.ipynb
