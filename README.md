@@ -1,17 +1,28 @@
-# capstone
+Please check out final_report.pdf for a in-depth explanation of my approach to
+this competition.
 
-Environment version:
+Requirements
+numpy (included in Anaconda)
+pandas (included in Anaconda)
+matplotlib (included in Anaconda)
+scikit-learn ( included in Anaconda)
+scipy (included in anaconda)
 
-python 3.5.3
+seaborn (can be installed with: pip install seaborn)
+wordcloud （can be installed with: conda install -c conda-forge wordcloud)
+NLTK (can be installed with: pip install -U nltk)
+lightGBM (can be installed with: pip install lightgbm)
 
-jupyter 1.0.0
+hyperopt (can be installed with: pip install hyperopt)
 
-keras   2.0.6
+Dataset
+The dataset can be obtained from the Kaggle competition page:
+https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
+In addition, I already uploaded both train.csv and test.csv files to google cloud
+and make them the public datasets for code to run.
 
-lightgbm 2.0.6
+Code running:
+Capstone_Report.ipynb
 
-matplotlib 2.0.6
-
-scikit-learn 0.18.1
-
-xgboost \
+Pipeline viewing:
+Capstone_Report.html
